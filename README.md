@@ -1,7 +1,7 @@
 # 02 Site Serliv
 
-![Preview do Projeto](#)
-
+Imagem do projeto:
+<img width="1141" height="702" alt="image" src="https://github.com/user-attachments/assets/26e9365b-788c-4fdf-829f-1778027760dd" />
 Uma landing page educacional moderna, interativa e responsiva desenvolvida como parte do Curso Web Fundamentos.
 
 ## 🚀 Tecnologias Utilizadas
